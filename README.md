@@ -1,7 +1,5 @@
 # ingestreact
 
-# Outils recommandés
-
 ## Collecte de données
 - API REST GitHub : Fournit des points de terminaison pour accéder aux informations sur les dépôts, issues, pull requests, etc. (Documentation : GitHub REST API)
 
